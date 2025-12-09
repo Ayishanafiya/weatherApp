@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌦️ Weather App
 
 A cross-platform **Weather Application** built with **Flutter** using the **OpenWeather API**.  
@@ -34,3 +35,6 @@ The app provides real-time weather updates, hourly forecasts, and additional wea
    ```bash
    git clone https://github.com/mushrifa-hussain/weather-app.git
 
+=======
+# weatherApp
+>>>>>>> 84e01acf7170db6ba2d514a56f83b72d833995eb
