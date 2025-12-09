@@ -97,7 +97,7 @@ class _WeatherScreenState extends State<WeatherScreen> {
                                 children: [
                                   Icon(Icons.location_on, size: 17),
                                   SizedBox(width: 3),
-                                  Text('Mangalore, India'),
+                                  Text('Bantwal, India'),
                                 ],
                               ),
                               SizedBox(height: 3),
